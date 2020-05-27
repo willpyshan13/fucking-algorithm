@@ -1,5 +1,5 @@
 English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
-
+![starHistory](./starHistory.jpg)
 # 前言
 
 本仓库总共 60 多篇原创文章，基本上都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
@@ -27,6 +27,8 @@ GitHub page 地址：https://labuladong.github.io/ebook/
 本仓库的文章就是从公众号里整理出来的**一部分**内容，我主要发文平台是微信公众号，公众号后台回复关键词【电子书】可以获得这份小抄的电子书版本，最近准备出版，限时免费下载；回复【**加群**】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
 <img src="./pictures/qrcode.jpg" width = "200" align=center />
+
+我一直在写优质文章，但是后续的文章只发布到我的公众号/网站/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
 
 其他的先不多说了，直接上干货吧，我们一起日穿 LeetCode，感受一下支配算法的乐趣。
 
